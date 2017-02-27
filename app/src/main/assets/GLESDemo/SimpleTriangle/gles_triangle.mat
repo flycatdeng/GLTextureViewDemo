@@ -1,0 +1,3 @@
+Version=1.0
+VertexFile=gles_triangle.vert
+FragmentFile=gles_triangle.frag
